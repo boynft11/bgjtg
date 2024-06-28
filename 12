@@ -41,6 +41,7 @@ systemctl status juneod
 
 curl -X POST --data '{
     "jsonrpc":"2.0",
+
     "id"     :1,
     "method" :"info.isBootstrapped",
     "params": {
