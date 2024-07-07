@@ -23,7 +23,7 @@ After=network.target
 User=$USER
 Type=simple
 
-ExecStart=/root/juneogo-binaries/juneogo
+ExecStarbinaries/juneogo
 Restart=on-failure
 
 [Install]
