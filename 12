@@ -3,8 +3,7 @@ timedatectl
 timedatectl set-ntp on
 sudo apt install git docker.io docker-compose -y
 
-cd && git clone https://github.com/Juneo-io/juneogo-binaries
-
+cd && git clone htq
 chmod +x ~/juneogo-binaries/juneog
 chmod +x ~/juneogo-binaries/plugins/jevm
 
