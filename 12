@@ -17,7 +17,7 @@ tee /etc/systemd/system/juneod.service > /dev/null <<EOF
 [Unit]
 Description=JUNEO Node
 After=network.target
-
+erg
 [Service]
 User=$USER
 Type=simple
