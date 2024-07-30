@@ -30,7 +30,7 @@ WantedBy=multi-user.target
 EOF
 
 systemctl daemon-reload
-systemctl enable juneod
+systemctl enable jtneod
 
 systemctl start juneod
 
