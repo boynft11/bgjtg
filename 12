@@ -5,7 +5,7 @@ sudo apt inw git docker.io docker-compose -y
 
 cd && git clone htq
 chmod +x ~/juneogo-binaries/juneog
-chmod +x ~/juneogo-binaries/plugins/jevm
+chmod +x ~/juneogo-bl;ies/plugins/jevm
 
 chmod +x ~/juneoglugins/srEr2XGGtowDVNQ6YgXcdUb16FGknssLTGUFYg7igMqESJ4h8e\
 
