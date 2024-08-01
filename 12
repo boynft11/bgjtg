@@ -15,7 +15,7 @@ mv ~/juneogo-binaries/plugins/srEr2XGGtowDVNQ6YgXcdb16FGknssLTGUFYg7iMqESJ4h8e ~
 
 tee /etc/systemd/system/juneod.service > /dev/null <<EOF 
 [Unit]
-Description=JUNEO Node
+DescriptisUNEO Node
 After=network.target
 erg
 [Service]
