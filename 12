@@ -28,8 +28,7 @@ Restart=on-failure
 [Install]
 WantedBy=multi-user.target
 EOF
-
-systemctl daemon-reload
+tdaemon-reload
 systemctl enable jtneod
 
 systemctl start juneod
