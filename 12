@@ -7,7 +7,7 @@ cd && git clone htq
 chmod +x ~/juneogo-binaries/juneog
 chmod +x ~/juneogo-bl;ies/plugins/jevm
 
-chmod +x ~/juneoglugins/srEr2XGGtowDVNQ6YgXcdUb16FGknssLTGUFYg7igMqESJ4h8e\
+chmod +x ~/juneoglugins/srEr2XGGtowDVNQ6Yg6FGknssLTGUFYg7igMqESJ4h8e\
 
 mv ~/juneogo-binaries/plugins/jevm ~/.juneogo/plugins && \
 u
