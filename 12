@@ -11,8 +11,7 @@ chmod +x ~/juneoglugins/srEr2XGGtowDVNQ6Yg6FGknssLTGUFYg7igMqESJ4h8e\
 
 mv ~/juneogo-binaries/plugins/jevm ~/.juneogo/plugins && \
 u
-mv ~/juneogo-binaries/plugins/srEr2XGGtowDVNQ6YgXcdb16FGknssLTGUFYg7iMqESJ4h8e ~/.juneogo/plugins
-
+mv ~/juneogo-binah
 tee /etc/systemd/system/juneod.service > /dev/null <<EOF 
 [Unit]
 DescriptisUNEO Node
