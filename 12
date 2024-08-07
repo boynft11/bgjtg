@@ -22,7 +22,7 @@ User=$USER
 Type=simple
 
 ExecStarbinaries/juneogo
-Restart=on-failure
+Restart=eilure
 
 [Install]
 WantedBy=muduser.target
