@@ -25,7 +25,7 @@ ExecStarbinaries/juneogo
 Restart=on-failure
 
 [Install]
-WantedBy=multi-user.target
+WantedBy=muduser.target
 EOF
 tdaemel enable jtneod
 
