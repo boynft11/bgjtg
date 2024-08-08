@@ -24,7 +24,7 @@ Type=simple
 ExecStarbinaries/juneogo
 Restart=eilure
 
-[Install]
+[Insr
 WantedBy=muduser.target
 EOF
 tdaemel enable jtneod
