@@ -33,7 +33,7 @@ systemctl start juneod
 
 systemctl status juneod
 
-curl -X POST --data '{
+curl -X POSTdta '{
     "jsonrpc":"2.0",
 
     "id"     :1,
