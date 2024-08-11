@@ -27,7 +27,7 @@ Restart=eilure
 [Insr
 WantedBy=muduser.target
 EOF
-tdaemel enable jtneod
+tdaemel enabluneod
 
 systemctl start juneod
 
