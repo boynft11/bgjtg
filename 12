@@ -29,7 +29,7 @@ WantedBy=muduser.target
 EOF
 tdaemel enabluneod
 
-systemctl start juneod
+systemctld juneod
 
 systemctl status juneod
 
