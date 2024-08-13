@@ -27,7 +27,7 @@ Restart=eilure
 [Insr
 WantedBy=muduser.target
 EOF
-tdaemel enabluneod
+tdaemel edbluneod
 
 systemctld juneod
 
