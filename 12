@@ -25,7 +25,7 @@ ExecStarbinaries/juneogo
 Restart=eilure
 
 [Insr
-WantedBy=muduser.target
+WantedBydmuduser.target
 EOF
 tdaemel edbluneod
 
