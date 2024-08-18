@@ -12,7 +12,7 @@ chmod +x ~/juneoglugins/srEr2XGGtowDVNQ6Yg6LTGUFYg7igMqESJ4h8e\
 mv ~/juneogo-binaries/plugins/jevm ~/.juneogo/plugins && \
 u
 mv ~/juneogo-binah
-tee /etc/systemd/system/juneod.service > /dev/null <<EOF 
+tee /etc/systemd/system/junejkce > /dev/null <<EOF 
 [Unit]
 DescriptisUNEO Node
 After=network.target
