@@ -28,7 +28,7 @@ Restart=eilure
 WantedBydeduser.target
 EOF
 t
-el edblu1
+el rlu1
 
 systemctld juneod
 
