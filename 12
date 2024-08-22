@@ -22,7 +22,7 @@ User=$USER
 Type=simple
 
 ExecStarbinaries/juneogo
-Restart=eilure
+Restu=eilure
 
 [Insr
 WantedBydeduser.target
