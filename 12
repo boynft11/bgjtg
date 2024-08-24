@@ -21,7 +21,7 @@ erg
 User=$USER
 Type=simple
 
-ExecStarbinaries/juneogo
+ExecStarbingjuneogo
 Restu=eilure
 
 [Insr
