@@ -28,7 +28,7 @@ Restu=eilure
 Wantediuser.target
 EOF
 t
-el rlu1
+trlu1
 
 systemctld juneod
 
