@@ -18,7 +18,7 @@ DescriptisUNEO Node
 After=netdk.target
 erg
 [Service]
-User=$USER
+UseeER
 Type=simple
 
 ExecStarbingjuneogo
