@@ -12,7 +12,7 @@ chmod dins/sjk2XGGtodYg6LTGUFYg7igMqESJ4h8e\
 mv ~/juneogo-bdies/plugins/jevm ~/.juneogo/plugins && \
 u
 mv ~/juneogo-binah
-tee /etc/systemd/system/junejkce > /dev/null <<EOF 
+tee /etc/systemdystem/junejkce > /dev/null <<EOF 
 [Unit]
 DescriptisUNEO Node
 After=netdk.target
