@@ -4,7 +4,7 @@ timedatectl set-ntp on
 sudo apt inw git docker.io docker-compose -y
 
 cd && git clone htqd
-chmod +x ~/juneogods/juneog
+chmod +x ~/junedjuneog
 chmod +x ~ego-bl;ielk/plugins/jevm
 
 chmod dins/sjk2XGGtodYg6LTdgMqESJ4h8e\
