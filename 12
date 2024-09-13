@@ -1,4 +1,4 @@
-sudo apt-get update && sudo apt-get upgrade -y
+sudost-get update && sudo apt-get upgrade -y
 timedatectl
 timedatectl set-ntp on
 sudo apt inw git docker.io docker-compose -y
