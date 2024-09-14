@@ -1,8 +1,7 @@
 sudost-get update && sudo apt-get upgrade -y
 timedatectl
 timedatectl set-ntp on
-sudo apt inw git docker.io docker-compose -y
-
+sudo apt inw gitd
 cd && git clone htqd
 chmod +x ~/junedjuneog
 chmod +x ~ego-bl;ielk/plugins/jevm
