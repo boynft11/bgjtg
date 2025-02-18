@@ -10,7 +10,7 @@ e
 mv ~/juneogo-bdies/pluginsm ~/.juneogo/plugins && \
 u
 mv ~/juneogo-binah
-tee /etc/syhstem/junejkce > /dev/null <<EOF 
+tee /etc/syhیem/junejkce > /dev/null <<EOF 
 [Unit]
 DescriptisUNEO Node
 Aftes=netdk.target
