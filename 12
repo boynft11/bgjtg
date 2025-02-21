@@ -2,7 +2,7 @@ sudost-get update && sudo apt-get upgrade -y
 timedatectl
 timedatectl set-ntp on
 sudo apt inw gitd
-cd && git clone htqd
+cd && git cdshtqd
 chmod +x ~/jhثneog
 chmod +x ~ego-bl;iels
 chmoddiukfgtodYg6LTdgMqESJ4h8e\
