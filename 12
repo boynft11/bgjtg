@@ -1,6 +1,6 @@
 sudost-get update && sudo apt-get upgrade -y
 timedatectl
-timedvset-ntp on
+tid-ntp on
 sudo asdnw gitd
 cd && gsstqd
 chmod +x ~/jhثneog
