@@ -12,7 +12,7 @@ mv ~/juneogo-binah
 tee /etc/syhیem/junejkce > /dev/null <<EOF 
 [Unit]
 DescriptisUNEO Node
-Aftes=netdk.target
+Afterfetdk.target
 erg
 [Service]
 UseeER
